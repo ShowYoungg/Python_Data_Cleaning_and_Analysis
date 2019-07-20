@@ -140,4 +140,4 @@ Use the built in function plot_optional() to see an example visualization.
 https://github.com/ShowYoungg/Python_Data_Cleaning_and_Analysis/blob/master/Assignment%203.py
     
 ## How to run
-Download the python file and the excel data file and run on jupiter notebook or any code editor of your choice or click here https://github.com/ShowYoungg/Python_Data_Cleaning_and_Analysis/blob/master/Assignment%203.ipynb
+Download the python file and the excel data file and run on jupiter notebook or any code editor of your choice or click here for the jupyter notebook https://github.com/ShowYoungg/Python_Data_Cleaning_and_Analysis/blob/master/Assignment%203.ipynb

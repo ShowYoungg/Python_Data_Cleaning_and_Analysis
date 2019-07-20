@@ -1,11 +1,10 @@
-# Python_Data_Cleaning_and_Analysis
+# Python Data Cleaning and Analysis
 This is the task on Data Analysis and Data Cleaning in Pandas and Numpy using Python
 
 # Jupyter Notebook
 Assignment 3
 
 # Assignment 3 - More Pandas
-This assignment requires more individual learning then the last one did - you are encouraged to check out the pandas documentation to find functions or methods you might not have used yet, or ask questions on Stack Overflow and tag them as pandas and python related. And of course, the discussion forums are open for interaction with your peers and the course staff.
 
 Question 1 (20%)
 Load the energy data from the file Energy Indicators.xls, which is a list of indicators of energy supply and renewable electricity production from the United Nations for the year 2013, and should be put into a DataFrame with the variable name of energy.
@@ -50,6 +49,7 @@ The index of this DataFrame should be the name of the country, and the columns s
 This function should return a DataFrame with 20 columns and 15 entries.
 
 # Questions and Code Solutions
+    https://github.com/ShowYoungg/Python_Data_Cleaning_and_Analysis/blob/master/Assignment%203.ipynb
     
 # How to run
 Download the python file and the excel data file and run on jupiter notebook or any code editor of your choice
